@@ -49,8 +49,8 @@ Provide detailed yet comprehensive response and only use tabular structure for t
 
 We welcome contributions to improve JobFit Analyzer! Fork the repository, create a pull request with your changes, and follow the contribution guidelines.
 
-## License
+## Open Source with Love:
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is proudly licensed under the `MIT License`, fostering free and open collaboration.
 
 **Stay tuned for further updates and enhancements!**
