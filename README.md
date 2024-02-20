@@ -1,4 +1,3 @@
-# JobFit-Analyzer
 # JobFit Analyzer: AI-Powered Resume Matchmaker
 
 **Tired of struggling to assess resume-job fit?**  The JobFit Analyzer streamlines this process with the power of **Large Language Models (LLMs)**. Get **instant, insightful feedback** on how well a resume aligns with a job description, helping you make **informed hiring decisions** or **improve your candidacy**.
